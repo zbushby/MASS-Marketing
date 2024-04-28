@@ -1,5 +1,5 @@
 # MASS-Marketing
-To Alex or the future committee reading this,
+To future committee reading this,
 
 Here is my code for sending out the emails for the newsletter, welcome emails, raffle tickets (attendance), and cleaning/sorting CSV files etc. also, some code to work out who bought member tickets and who aren't members :/
 
